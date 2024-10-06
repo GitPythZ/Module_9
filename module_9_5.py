@@ -4,7 +4,7 @@ class StepValueError(ValueError):
 
 
 class Iterator:
-    def __init__(self, start: int, stop: int, step = 1):
+    def __init__(self, start: int, stop: int, step=1):
         """
         Класс итератор обладает атрибутами start: stop: step: pointer.\
         """
