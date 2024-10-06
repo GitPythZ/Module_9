@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c1a3fb1-4ad0-49cf-8354-8616f44c62fb" name="Changes" comment="функциональное программирование">
-      <change afterPath="$PROJECT_DIR$/module_9_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_9_7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,8 @@
     "Python.module_9_3.executor": "Run",
     "Python.module_9_4.executor": "Run",
     "Python.module_9_5.executor": "Run",
+    "Python.module_9_6.executor": "Debug",
+    "Python.module_9_7.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -127,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728228417532</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="функциональное программирование">
+      <option name="closed" value="true" />
+      <created>1728229410383</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728229410383</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -135,5 +145,16 @@
     <MESSAGE value="работа со словарями" />
     <MESSAGE value="функциональное программирование" />
     <option name="LAST_COMMIT_MESSAGE" value="функциональное программирование" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module_9_6.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
