@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c1a3fb1-4ad0-49cf-8354-8616f44c62fb" name="Changes" comment="работа со словарями">
-      <change afterPath="$PROJECT_DIR$/get_advanced_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_9_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetest.py" afterDir="false" />
+    <list default="true" id="8c1a3fb1-4ad0-49cf-8354-8616f44c62fb" name="Changes" comment="функциональное программирование">
+      <change afterPath="$PROJECT_DIR$/module_9_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +50,7 @@
     "Python.module_9_2.executor": "Run",
     "Python.module_9_3.executor": "Run",
     "Python.module_9_4.executor": "Run",
+    "Python.module_9_5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -104,12 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1728225446586</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="функциональное программирование">
+      <option name="closed" value="true" />
+      <created>1728227017766</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728227017766</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="module_9_1" />
     <MESSAGE value="работа со словарями" />
-    <option name="LAST_COMMIT_MESSAGE" value="работа со словарями" />
+    <MESSAGE value="функциональное программирование" />
+    <option name="LAST_COMMIT_MESSAGE" value="функциональное программирование" />
   </component>
 </project>
