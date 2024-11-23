@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c1a3fb1-4ad0-49cf-8354-8616f44c62fb" name="Changes" comment="функциональное программирование">
-      <change afterPath="$PROJECT_DIR$/module_9_7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9_7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,40 +23,40 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "GitPythZ"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GitPythZ&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/GitPythZ/Module_9.git",
-    "accountId": "7208ad1a-cc1d-4bb2-a948-c376d09f1b9d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GitPythZ/Module_9.git&quot;,
+    &quot;accountId&quot;: &quot;7208ad1a-cc1d-4bb2-a948-c376d09f1b9d&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2n1YbVTtfAjgtJcqnI5eNw7iUcO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.module_9_1.executor": "Run",
-    "Python.module_9_2.executor": "Run",
-    "Python.module_9_3.executor": "Run",
-    "Python.module_9_4.executor": "Run",
-    "Python.module_9_5.executor": "Run",
-    "Python.module_9_6.executor": "Debug",
-    "Python.module_9_7.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.module_9_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_6.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.module_9_7.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -137,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728229410383</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="функциональное программирование">
+      <option name="closed" value="true" />
+      <created>1728230144106</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1728230144106</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -145,16 +153,5 @@
     <MESSAGE value="работа со словарями" />
     <MESSAGE value="функциональное программирование" />
     <option name="LAST_COMMIT_MESSAGE" value="функциональное программирование" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/module_9_6.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
